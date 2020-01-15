@@ -12,7 +12,7 @@ namespace WebAppTraining.Pages
 
         public void OnGet()
         {
-            Message = "Your application description page.";
+            Message = "Updated Application Page.";
         }
     }
 }

@@ -12,7 +12,7 @@ namespace WebAppTraining.Pages
 
         public void OnGet()
         {
-            Message = "Your contact page.";
+            Message = "Tek-Experts";
         }
     }
 }
